@@ -50,4 +50,5 @@ Project Structure
 Created for educational purposes at *Vistula University*.
 
 Author: Umud Kalbizada
-![PHOTO-2026-01-13-17-59-55](https://github.com/user-attachments/assets/f5b4a54d-8ded-4321-9f68-9db9bc1d47aa)
+
+![copy_4B4B162F-8477-46CD-A30E-725D51426A52](https://github.com/user-attachments/assets/8573be46-d962-45da-8819-a289602bc63e)
